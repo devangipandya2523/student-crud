@@ -20,8 +20,6 @@ This is a mini CRUD (Create, Read, Update, Delete) web application where users c
 - **CSS3**
 - **Bootstrap 5**
 - **JavaScript**
-- **jQuery**
-- **PHP** (or Laravel, if applicable)
 - **MySQL**
 
 
